@@ -14,7 +14,7 @@
       }
     },
     "rules": {
-       "object-curly-spacing": ["warn", "never"],
+       "object-curly-spacing": ["warn", "always"],
       "no-unused-vars": [
         "warn",
         {
