@@ -1,5 +1,8 @@
   REACT/TS TEMPLATE  (Prettier-ESlint formatter)
   
+ 
+how to deploy app in gh-pages
+
 ja ir uztaisīts aps, bet nav ielikts repositorijā, tad daram tā: 
 1. uztaisi jaunu repository githubā
 
