@@ -1,6 +1,5 @@
   REACT/TS TEMPLATE  (Prettier-ESlint formatter)
   
-
 ja ir uztaisīts aps, bet nav ielikts repositorijā, tad daram tā: 
 1. uztaisi jaunu repository githubā
 
